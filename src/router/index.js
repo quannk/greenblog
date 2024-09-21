@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'; // Import đúng trong Vue 3
 
-
 // Import các component cho router
 import Home from '../views/Home.vue';
 import CuocSong from '../views/CuocSong.vue';
